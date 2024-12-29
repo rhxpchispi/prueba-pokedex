@@ -36,7 +36,7 @@ serviceAccount:
 podAnnotations: {}
 
 container:
-port: 5000
+  port: 5000
 
 # This is for setting Kubernetes Labels to a Pod.
 # For more information checkout: https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/
